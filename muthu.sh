@@ -1,3 +1,6 @@
 #! /bin/bash
 
-echo "script from the dev branch"
+
+
+echo "script from master"
+
