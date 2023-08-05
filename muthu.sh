@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "script from dev"
+echo "script from master"
