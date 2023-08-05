@@ -8,7 +8,6 @@ pipeline{
                 echo "second line"
             }
         }
-
         stage ('script') {
             steps{
                 sh ' ./muthu.sh '
