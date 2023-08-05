@@ -9,7 +9,7 @@ pipeline{
             }
         }
 
-        stage ('test') {
+        stage ('script') {
             steps{
                 sh ' ./muthu.sh '
             }
