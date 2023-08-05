@@ -6,6 +6,7 @@ pipeline{
             steps{
                 echo "dev branch"
                 echo "second line"
+                echo "third line for pull request"
             }
         }
     }
