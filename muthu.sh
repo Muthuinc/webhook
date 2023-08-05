@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "script from dev branch"
+echo "script from the dev branch"
