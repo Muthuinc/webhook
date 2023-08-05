@@ -5,7 +5,7 @@ pipeline{
         stage ('test') {
             steps{
                 echo "dev branch"
-                echo "second line"
+                echo "second linee"
             }
         }
     }
